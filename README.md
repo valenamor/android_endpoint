@@ -1,2 +1,1 @@
-# FirebaseAndroid
-Proyectos del Curso Profesional de Firebase para Android
+Crea un Web Service que tenga como Endpoint el servicio de recibir el identificador del dispositivo (token) y el id de usuario que se configuró en la cuenta de la aplicación (esto lo hiciste en la actividad anteiror). La finalidad es que estos sean almacenados en una base de datos, la cual, debe estar preparada para insertar los datos permanentemente. 
